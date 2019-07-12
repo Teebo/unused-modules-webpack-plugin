@@ -28,4 +28,8 @@ plugins: [
 ]
 ... 
 ```
+
+Refer to the NPM package (glob-all)[https://www.npmjs.com/package/glob-all] for details on the **globOptions** that can be passed to your new instance.
+
+
 # Note that the plugin's output will be printed before Webpack's emit console output
